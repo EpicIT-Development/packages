@@ -1,0 +1,13 @@
+{
+    "name": "epicit-development/user_module",
+    "type": "library",
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "https://github.com/EpicIT-Development/packages.git"
+        }
+      ],
+      "require": {
+        "epicit-development/user_module": "dev-master"
+      }
+}
